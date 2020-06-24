@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Repo</string>
+    <string name="nav_header_title">Github Repo</string>
+    <string name="nav_header_subtitle">contactus@doubleclick.my</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_print_report">Report</string>
+    <string name="menu_home">Home</string>
+</resources>
